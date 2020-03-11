@@ -1,0 +1,8 @@
+name: SimpleHG
+main: com.topoedits.HG
+version: 1.0
+commands:
+    hg:
+permissions:
+    hg.admin:
+        description: acceso a todo.
